@@ -1,0 +1,2 @@
+class Effective < ApplicationRecord
+end

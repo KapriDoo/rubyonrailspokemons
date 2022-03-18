@@ -1,0 +1,2 @@
+class EffectivesController < ApplicationController
+end

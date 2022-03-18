@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  attack_type: MyString
+  defense_type: MyString
+  effective: MyString
+
+two:
+  attack_type: MyString
+  defense_type: MyString
+  effective: MyString
